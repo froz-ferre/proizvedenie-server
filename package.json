@@ -1,6 +1,6 @@
 {
   "name": "proizvedenie_server",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Proizvedenie server side",
   "main": "index.js",
   "scripts": {
